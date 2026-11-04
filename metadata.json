@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow - Full-Stack Task Management",
+  "description": "A modern, responsive full-stack task management application with real-time statistics, Kanban boards, and persistent SQLite storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
